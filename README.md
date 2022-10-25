@@ -1,6 +1,3 @@
-# recomenda-amigos
-Um algoritmo em fase inicial para recomendar amigos para uma pessoa
-
 
 # Algoritmo que recomenda amigos em java
 
